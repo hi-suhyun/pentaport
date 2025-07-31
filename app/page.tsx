@@ -437,7 +437,7 @@ export default function RockFestivalBooth() {
                   </h2>
                 </div>
 
-                <div className="bg-white/80 p-6 rounded-lg border-2 border-amber-300 shadow-lg">
+                <div className="bg-white/80 p-6 rounded-lg shadow-lg">
                   <div className="text-amber-900 leading-relaxed text-sm space-y-4 korean-traditional">
                     <p>{currentContent.section1.text1}</p>
                     <p>{currentContent.section1.text2}</p>
