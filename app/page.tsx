@@ -169,15 +169,15 @@ export default function RockFestivalBooth() {
         illustration: "🏠👩‍👧‍👦🐅🌙",
         paragraphs: [
           {
-            text: "Long, long ago, in a deep mountain valley, there lived a brother and sister with their widowed mother, poor but living harmoniously together. Every day, their mother would cross the rice cake hill to sell rice cakes at the market, raising her children alone.",
+            text: "Long, long ago, in a deep mountain valley, there lived a poor but loving family: a brother, a sister, and their widowed mother. Every day, the mother crossed several mountain ridges to sell rice cakes at the market, raising her children all on her own.",
             image: "/images/1.png",
           },
           {
-            text: "One night, as the mother was returning home after selling rice cakes, a fearsome tiger blocked her path at the first hill. \"Give me one rice cake and I won't eat you.\" The terrified mother threw him a rice cake, and though the tiger seemed to retreat, it appeared again at every hill, taking one rice cake each time, until finally it swallowed the mother whole.",
+            text: "Then one night, as the mother was returning home from the market, a terrifying tiger blocked her path at the first ridge. “If you give me a rice cake, I won’t eat you,” the tiger growled. Terrified, the mother threw him one. Though the tiger seemed to retreat, he reappeared at every ridge, demanding more rice cakes. Eventually, with nothing left to give, the tiger swallowed the poor mother whole.",
             image: "/images/2.png",
           },
           {
-            text: "Satisfied and patting its belly, the tiger now wanted to eat the remaining children. It put on the mother's clothes and stood at the front door of the house. \"Children, it's mother. Please open the door.\" But the voice didn't sound right.",
+            text: "Patting his full belly with satisfaction, the tiger set off toward the children’s home, wearing the mother’s clothes to trick them. Standing in front of the door, he called out, “Children, it’s Mother. Please open the door.”",
             image: "/images/3.png",
           },
         ],
@@ -188,17 +188,17 @@ export default function RockFestivalBooth() {
         illustration: "🌳👧👦🪢☀️🌙⭐",
         paragraphs: [
           {
-            text: "The brother quickly stopped his sister who was about to open the door and said, \"Then show us your hand.\" At that moment, a rope descended from heaven, and through the gap, gleaming yellow eyes were watching them. The siblings immediately realized it was the tiger and, holding their breath, escaped through the back door and climbed high up into a tree to hide.",
+            text: "Overjoyed, the younger sister rushed to open it, but her older brother stopped her just in time. “Then show us your hand,” he said cautiously. A furry paw suddenly poked through the door paper—followed by the gleam of yellow eyes. The siblings instantly knew it was the tiger. Without a breath, they slipped out the back door and climbed up a tall tree to hide.",
             image: "/images/4.png",
           },
           {
-            text: "The enraged tiger growled below the tree and licked its paws, but couldn’t reach the children’s bodies. The furious tiger growled below the tree and licked its paws, but couldn’t reach the children.",
+            text: "The furious tiger stood below, growling and stretching out his claws, but he couldn't reach them.",
             image: "/images/5.png",
           },
           {
-            text: "Finally, the siblings clasped their hands together and prayed to heaven. \"God, if you want to save us, please send down a new rope, but if not, send down a rotten rope.\" At that moment, a rope descended from heaven, and the siblings climbed up the rope to heaven, becoming the sun and moon that illuminate the world.",
+            text: "The siblings pressed their hands together and prayed to the heavens: “If you wish to save us, send down a strong, new rope. If not, send a rotten one instead.”\nJust then,\na sparkling, new rope descended from the sky.\nClimbing it, the brother and sister rose into the heavens—\nand became the sun and the moon, lighting up the world.\nThe tiger also prayed to the sky in the same way,\nand this time, a rotten rope was sent down.\nUnaware, the tiger climbed up confidently—\nbut the rope snapped, and he plunged to the ground.\nIt is said that his blood soaked the sorghum fields,\nwhich turned the grains red to this day.",
             image: "/images/6.png",
-          },
+          }
         ],
       },
       {
