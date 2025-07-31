@@ -39,15 +39,17 @@ export default function RockFestivalBooth() {
   const content = {
     ko: {
       backButton: "← 뒤로",
-      section1: {
+      section2: {
         title: "호락단 모집",
         text1:
-          "<어흥도 흥이다>는 호랑이와 락을 합친 ‘호락이’라는 전설적인 존재가 펜타포트 20주년을 맞아 인간세계로 내려온다는 설정을 배경으로 하고 있습니다. 호락이는 한국적인 정서인 ‘흥’을 즐기고 전파하는 존재로 <어흥도 흥이다>부스는 호락이가 내려오는 펜타포트 3일간 저희 호락단이 호락이를 맞이하며, 함께할 호락단원들을 모집한다는 컨셉입니다.",
-        text2:
+          "<어흥도 흥이다> 는 호랑이와 락을 합친 ‘호락이’라는 전설적인 존재가 펜타포트 20주년을 맞아 인간세계로 내려온다는 설정을 배경으로 하고 있습니다.",
+        text2: 
+          "호락이는 한국적인 정서인 ‘흥’을 즐기고 전파하는 존재로 <어흥도 흥이다>부스는 호락이가 내려오는 펜타포트 3일간 저희 호락단이 호락이를 맞이하며, 함께할 호락단원들을 모집한다는 컨셉입니다.",
+        text3:
           "호랑이가 나오는 대표적인 전래동화 <해님달님>을 배경으로 하는 여러 컨텐츠들을 모두 수행하면, 정식으로 호락단원으로 임명합니다. 락을 사랑하고 흥을 아는 이들, 호락단의 일원이 되어 함께 외쳐봅시다. “어흥도 흥이다!”",
       },
-      section2: {
-        title: "호락신 강림",
+      section1: {
+        //title: "호락신 강림",
         text1: "스무 해를 맞은 펜타포트 락 페스티벌.",
         text2: "그 기념비적인 해에, 흥의 기운을 지닌 용맹한 호걸, '호락신'이 인간 세상에 강림하신다 하도다.",
         text3:
@@ -70,7 +72,7 @@ export default function RockFestivalBooth() {
             image: "/images/1.png",
           },
           {
-            text: '그러던 어느 날, 어머니가 떡을 팔고 집으로 돌아오던 밤이었습니다. 첫 번째 고개에서 무서운 호랑이가 길을 막았어요. "떡 하나 주면 안 잡아먹지." 깜에 질린 어머니는 떡을 하나 던져 주었고, 그때는 물러나는 듯하던 호랑이는 고개를 넘을 때마다 또다시 나타나 떡 하나씩 빼앗아 먹고, 결국 어머니까지 꿀꺽 삼켜버리고 말았답니다.',
+            text: '그러던 어느 날, 어머니가 떡을 팔고 집으로 돌아오던 밤이었습니다. 첫 번째 고개에서 무서운 호랑이가 길을 막았어요. \n\n"떡 하나 주면 안 잡아먹지." 겁에 질린 어머니는 떡을 하나 던져 주었고, 그때는 물러나는 듯하던 호랑이는 고개를 넘을 때마다 또다시 나타나 떡 하나씩 빼앗아 먹고, 결국 어머니까지 꿀꺽 삼켜버리고 말았답니다.',
             image: "/images/2.png",
           },
           {
@@ -85,7 +87,7 @@ export default function RockFestivalBooth() {
         illustration: "🌳👧👦🪢☀️🌙⭐",
         paragraphs: [
           {
-            text: '기백서 문을 열려던 여동생을 오빠는 제빨리 막아서며 말했어요. "그럼, 손을 내밀어 봐." 문풍지를 뚫고 털북숭이 앞발이 쑥! 그리고 그 틈 사이로 번뜩이는 노란 눈동자까지. 남매는 그게 호랑이인 걸 단번에 눈치채고, 숨을 쉬지 않고 뒷문으로 빠져나가 높은 나무 위로 올라가 몸을 숨겼습니다.',
+            text: '기백서 문을 열려던 여동생을 오빠는 제빨리 막아서며 말했어요. \n\n"그럼, 손을 내밀어 봐." \n\n문풍지를 뚫고 털북숭이 앞발이 쑥! \n그리고 그 틈 사이로 번뜩이는 노란 눈동자까지. 남매는 그게 호랑이인 걸 단번에 눈치채고, 숨을 쉬지 않고 뒷문으로 빠져나가 높은 나무 위로 올라가 몸을 숨겼습니다.',
             image: "/images/4.png",
           },
           {
@@ -93,7 +95,7 @@ export default function RockFestivalBooth() {
             image: "/images/5.png",
           },
           {
-            text: '결국 남매는 하늘을 향해 두 손을 모으고 빌었습니다. "하느님, 저희를 구해주시려면 새 동아줄을 내려 주시고, 아니시라면 썩은 줄을 내려 주세요." 그 순간 하늘에서 반짝이는 새 동아줄이 스르륵 내려왔고, 남매는 그 줄을 타고 하늘로 올라가 해와 달이 되어 세상을 비추는 존재가 되었답니다. 호랑이도 하늘을 향해 똑같이 기도했고, 하늘은 이번엔 썩은 동아줄을 내려주었지요. 호랑이는 그것도 모르고 기세 좋게 올라가다 줄이 끊어지며 곤두박질쳤고, 그 피가 떨어져 수수밭의 수수가 붉게 물들었다고 전해집니다.',
+            text: '결국 남매는 하늘을 향해 두 손을 모으고 빌었어요. \n\n"하느님, 저희를 구해주시려면 새 동아줄을 내려 주시고, 아니시라면 썩은 줄을 내려 주세요." \n\n그 순간 하늘에서 반짝이는 새 동아줄이 스르륵 내려왔고, 남매는 그 줄을 타고 하늘로 올라가 해와 달이 되어 세상을 비추는 존재가 되었답니다. \n\n호랑이도 하늘을 향해 똑같이 기도했고, 하늘은 이번엔 썩은 동아줄을 내려주었지요. 호랑이는 그것도 모르고 기세 좋게 올라가다 줄이 끊어지며 곤두박질쳤고, 그 피가 떨어져 수수밭의 수수가 붉게 물들었다고 전해집니다.',
             image: "/images/6.png",
           },
         ],
@@ -104,30 +106,30 @@ export default function RockFestivalBooth() {
         illustration: "🎸🐅🎤",
         paragraphs: [
           {
-            text: "이러한 <해님달님> 이야기를 배경으로 하는 컨텐츠들을 모두 수행하면, 여러분도 정식으로 호락단원으로 임명합니다! 2025년 8월 1일부터 3일, 펜타포트의 20주년을 함께 축하해주세요. 어-흥!",
+            text: "이러한 <해님달님> 이야기를 배경으로 하는 컨텐츠들을 모두 수행하면, 여러분도 정식으로 호락단원으로 임명합니다! \n\n2025년 8월 1일부터 3일, 펜타포트의 20주년을 함께 축하해주세요. \n\n어-흥!",
             image: "/images/13.png",
           }   
         ]     
       },
-      {
-        page: "",
-        title: "코너 설명",
-        illustration: "🎸🐅🎤",
-        paragraphs: [
-          {
-            text: [
-              "락(樂) 기질을 알고자 하는 자,호락단의 맹렬한 흥을 깨우고자 하는 자, 호락풍류 진단서에 답해보시게.\n\n",
-              "진단서를 읽고 그대에게 해당되는 항목에 체크를 하게.\n\n",
-              "체크한 개수에 따라 그대 안에 숨겨진 락의 결,\n",
-              "해님형, 달님형, 혹은 범형이 드러날 것이니라.\n\n",
-              "결과 확인 후, 진단서를 앞에 있는 호락단원에게 살며시 보여주시게.\n\n",
-              "그대의 락 기질에 맞는 도장이 곧 건네질 터이니라.\n\n",
-              "*진단서는 마지막 관문까지 꼭 간직해 두시게.",
-            ].join("")
-            //image: "/images/9.png", 
-          },
-        ],
-      },
+      // {
+      //   page: "",
+      //   title: "코너 설명",
+      //   illustration: "🎸🐅🎤",
+      //   paragraphs: [
+      //     {
+      //       text: [
+      //         "락(樂) 기질을 알고자 하는 자,호락단의 맹렬한 흥을 깨우고자 하는 자, 호락풍류 진단서에 답해보시게.\n\n",
+      //         "진단서를 읽고 그대에게 해당되는 항목에 체크를 하게.\n\n",
+      //         "체크한 개수에 따라 그대 안에 숨겨진 락의 결,\n",
+      //         "해님형, 달님형, 혹은 범형이 드러날 것이니라.\n\n",
+      //         "결과 확인 후, 진단서를 앞에 있는 호락단원에게 살며시 보여주시게.\n\n",
+      //         "그대의 락 기질에 맞는 도장이 곧 건네질 터이니라.\n\n",
+      //         "*진단서는 마지막 관문까지 꼭 간직해 두시게.",
+      //       ].join("")
+      //       //image: "/images/9.png", 
+      //     },
+      //   ],
+      // },
 
     ],
       corner: [
@@ -166,18 +168,18 @@ export default function RockFestivalBooth() {
     },
     en: {
       backButton: "← Back",
-      section1: {
+      section2: {
         title: "Horock Squad Recruitment",
         text1:[
           "Behind this theme is the legendary being HO-ROCK-EE —a fusion of “ho-rang-i” (tiger) and rock—who has descended into the human world to celebrate the 20th anniversary of Pentaport Rock Festival.",
-          "\nHO-ROCK-EE is a creature born from the Korean spirit of “heung” —joy, excitement, and rhythm—and he lives to spread it far and wide.",
-          "During the three days of Pentaport, our Horockdan welcomes HO-ROCK-EE to the festival and begins recruiting new Horockdan members to join the celebration.",
+          "\n\nHO-ROCK-EE is a creature born from the Korean spirit of “heung” —joy, excitement, and rhythm—and he lives to spread it far and wide.",
+          " During the three days of Pentaport, our Horockdan welcomes HO-ROCK-EE to the festival and begins recruiting new Horockdan members to join the celebration.",
         ].join(""),
         text2:
-          "Visitors who complete all of our interactive activities—based on the classic Korean folktale “The Sun and the Moon”, featuring a tiger—will be officially initiated into the Horockdan.\nFor those who love rock and know how to ride the wave of heung, join the ranks of Horockdan and shout it loud:\n“A Roar Still Rocks!”",
+          "Visitors who complete all of our interactive activities—based on the classic Korean folktale “The Sun and the Moon”, featuring a tiger—will be officially initiated into the Horockdan.\n\nFor those who love rock and know how to ride the wave of heung, join the ranks of Horockdan and shout it loud:\n“A Roar Still Rocks!”",
       },
-      section2: {
-        title: "Descent of the Rock God",
+      section1: {
+        //title: "Descent of the Rock God",
         text1: "The Pentaport Rock Festival celebrates its twentieth year.",
         text2:
           "In this monumental year, a brave hero imbued with the spirit of excitement, the 'Rock God,' descends to the human world.",
@@ -197,15 +199,15 @@ export default function RockFestivalBooth() {
         illustration: "🏠👩‍👧‍👦🐅🌙",
         paragraphs: [
           {
-            text: "Long, long ago, in a deep mountain valley, there lived a poor but loving family: a brother, a sister, and their widowed mother. Every day, the mother crossed several mountain ridges to sell rice cakes at the market, raising her children all on her own.",
+            text: "Long, long ago, in a deep mountain valley, there lived a poor but loving family: a brother, a sister, and their widowed mother. \n\nEvery day, the mother crossed several mountain ridges to sell rice cakes at the market, raising her children all on her own.",
             image: "/images/1.png",
           },
           {
-            text: "Then one night, as the mother was returning home from the market, a terrifying tiger blocked her path at the first ridge. “If you give me a rice cake, I won’t eat you,” the tiger growled. Terrified, the mother threw him one. Though the tiger seemed to retreat, he reappeared at every ridge, demanding more rice cakes. Eventually, with nothing left to give, the tiger swallowed the poor mother whole.",
+            text: "Then one night, as the mother was returning home from the market, a terrifying tiger blocked her path at the first ridge. \n\n“If you give me a rice cake, I won’t eat you,” the tiger growled. \n\nTerrified, the mother threw him one. Though the tiger seemed to retreat, he reappeared at every ridge, demanding more rice cakes. Eventually, with nothing left to give, the tiger swallowed the poor mother whole.",
             image: "/images/2.png",
           },
           {
-            text: "Patting his full belly with satisfaction, the tiger set off toward the children’s home, wearing the mother’s clothes to trick them. Standing in front of the door, he called out, “Children, it’s Mother. Please open the door.”",
+            text: "Patting his full belly with satisfaction, the tiger set off toward the children’s home, wearing the mother’s clothes to trick them. Standing in front of the door, he called out, \n\n“Children, it’s Mother. Please open the door.”",
             image: "/images/3.png",
           },
         ],
@@ -216,7 +218,7 @@ export default function RockFestivalBooth() {
         illustration: "🌳👧👦🪢☀️🌙⭐",
         paragraphs: [
           {
-            text: "Overjoyed, the younger sister rushed to open it, but her older brother stopped her just in time. “Then show us your hand,” he said cautiously. A furry paw suddenly poked through the door paper—followed by the gleam of yellow eyes. The siblings instantly knew it was the tiger. Without a breath, they slipped out the back door and climbed up a tall tree to hide.",
+            text: "Overjoyed, the younger sister rushed to open it, but her older brother stopped her just in time. \n\n“Then show us your hand,” \nhe said cautiously. \n\nA furry paw suddenly poked through the door paper—followed by the gleam of yellow eyes. The siblings instantly knew it was the tiger. Without a breath, they slipped out the back door and climbed up a tall tree to hide.",
             image: "/images/4.png",
           },
           {
@@ -224,7 +226,7 @@ export default function RockFestivalBooth() {
             image: "/images/5.png",
           },
           {
-            text: "The siblings pressed their hands together and prayed to the heavens: “If you wish to save us, send down a strong, new rope. If not, send a rotten one instead.”\nJust then,\na sparkling, new rope descended from the sky.\nClimbing it, the brother and sister rose into the heavens—\nand became the sun and the moon, lighting up the world.\nThe tiger also prayed to the sky in the same way,\nand this time, a rotten rope was sent down.\nUnaware, the tiger climbed up confidently—\nbut the rope snapped, and he plunged to the ground.\nIt is said that his blood soaked the sorghum fields,\nwhich turned the grains red to this day.",
+            text: "The siblings pressed their hands together and prayed to the heavens: \n\n“If you wish to save us, send down a strong, new rope. If not, send a rotten one instead.”\n\nJust then, a sparkling, new rope descended from the sky. Climbing it, the brother and sister rose into the heavens—\nand became the sun and the moon, lighting up the world.\n\nThe tiger also prayed to the sky in the same way, and this time, a rotten rope was sent down.\nUnaware, the tiger climbed up confidently—\nbut the rope snapped, and he plunged to the ground. It is said that his blood soaked the sorghum fields, which turned the grains red to this day.",
             image: "/images/6.png",
           }
         ],
@@ -235,36 +237,36 @@ export default function RockFestivalBooth() {
         illustration: "🎸🐅🎤",
         paragraphs: [
           {
-            text: "Once you complete all the content based on the story of The Sun and the Moon, you will be officially appointed as a member of the Horockdan! Join us in celebrating the 20th anniversary of Pentaport from August 1 to 3, 2025. Roar!",
+            text: "Once you complete all the content based on the story of The Sun and the Moon, you will be officially appointed as a member of the Horockdan! \n\nJoin us in celebrating the 20th anniversary of Pentaport from August 1 to 3, 2025. \n\nRoar!",
             image: "/images/10.png",
           },
         ],
       },
-      {
-        page: "",
-        title: "corner description",
-        illustration: "🎸🐅🎤",
-        paragraphs: [
-          {
-            text: [
-              "Seekers of the Rock Spirit!\n\n",
-              "If you wish to awaken the wild energy of the Horockdan,",
-              "take the Horock Flow Diagnosis.\n\n",
+      // {
+      //   page: "",
+      //   title: "corner description",
+      //   illustration: "🎸🐅🎤",
+      //   paragraphs: [
+      //     {
+      //       text: [
+      //         "Seekers of the Rock Spirit!\n\n",
+      //         "If you wish to awaken the wild energy of the Horockdan,",
+      //         "take the Horock Flow Diagnosis.\n\n",
 
-              "Read through the scroll carefully,",
-              "and place a checkmark next to every statement",
-              "that resonates with your inner rhythm.\n\n",
-              "Based on the number of checks, your hidden Rock Soul will be revealed.",
-              "Are you a Sun Type, Moon Type, or a fierce Tiger Type?\n\n",
-              "Once you’ve discovered your result,",
-              "present your completed diagnosis to a nearby Horockdan member.\n\n",
-              "They shall bestow upon you a stamp that matches your type.\n\n",
-              "* Do not lose your diagnosis paper!",
-              " You’ll need it to pass the final rite of Horock initiation.",
-            ].join("")
-          },
-        ],
-      },
+      //         "Read through the scroll carefully,",
+      //         "and place a checkmark next to every statement",
+      //         "that resonates with your inner rhythm.\n\n",
+      //         "Based on the number of checks, your hidden Rock Soul will be revealed.",
+      //         "Are you a Sun Type, Moon Type, or a fierce Tiger Type?\n\n",
+      //         "Once you’ve discovered your result,",
+      //         "present your completed diagnosis to a nearby Horockdan member.\n\n",
+      //         "They shall bestow upon you a stamp that matches your type.\n\n",
+      //         "* Do not lose your diagnosis paper!",
+      //         " You’ll need it to pass the final rite of Horock initiation.",
+      //       ].join("")
+      //     },
+      //   ],
+      // },
       ],
       corner: [
       {
@@ -484,20 +486,26 @@ export default function RockFestivalBooth() {
               {/* Section 1 */}
               <div className="py-16 flex flex-col justify-center">
                 <div className="text-center mb-6">
-                  <div className="w-20 h-20 bg-amber-200 rounded-full flex items-center justify-center border-2 border-amber-800 mx-auto mb-4">
+                  {/* <div className="w-20 h-20 bg-amber-200 rounded-full flex items-center justify-center border-2 border-amber-800 mx-auto mb-4">
                     <div className="text-4xl">🐅</div>
-                  </div>
+                  </div> */}
                   <h2 className="text-2xl font-jeju font-bold text-amber-900 whitespace-pre-line">
                     {currentContent.section1.title}
                   </h2>
                 </div>
 
-                <div className="bg-white/80 p-6 rounded-lg shadow-lg">
+                <div className=" p-6 rounded-lg ">
                   <div className="text-amber-900 leading-relaxed text-sm space-y-4 korean-traditional">
-                    <p>{currentContent.section1.text1}</p>
-                    <p>{currentContent.section1.text2}</p>
+                    <p className="whitespace-pre-line">{currentContent.section1.text1}</p>
+                    <p className="whitespace-pre-line">{currentContent.section1.text2}</p>
+                    <p className="whitespace-pre-line">{currentContent.section1.text3}</p>
+                    <p className="whitespace-pre-line">{currentContent.section1.text4}</p>
+                    <p className="className= font-bold text-red-800 korean-brush">{currentContent.section1.text5}</p>
+
+
                   </div>
                 </div>
+
               </div>
 
               {/* Section 2 */}
@@ -546,20 +554,7 @@ export default function RockFestivalBooth() {
                       {currentContent.section3.button}
                     </Button>
                   </div>
-                  <div className="bg-white/90 p-8 rounded-lg border-2 border-amber-300 shadow-lg">
-                    <div className="mb-6">
-                      <div className="w-16 h-16 bg-gradient-to-r from-red-500 to-amber-500 rounded-full flex items-center justify-center mx-auto mb-4">
-                        <span className="text-white text-2xl">📖</span>
-                      </div>
-                    </div>
-
-                    <Button
-                      className="w-full bg-gradient-to-r from-red-600 to-amber-600 hover:from-red-700 hover:to-amber-700 text-white font-bold py-4 rounded-lg border-2 border-red-800 shadow-lg text-md korean-modern"
-                      onClick={handleTestClick}
-                    >
-                      {currentContent.section3.button}
-                    </Button>
-                  </div>
+                  
                 </div>
               </div>
             </div>
