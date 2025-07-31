@@ -139,14 +139,14 @@ export default function RockFestivalBooth() {
     en: {
       backButton: "← Back",
       section1: {
-        title: "Horak Squad Recruitment",
+        title: "Horock Squad Recruitment",
         text1:[
           "Behind this theme is the legendary being HO-ROCK-EE —a fusion of “ho-rang-i” (tiger) and rock—who has descended into the human world to celebrate the 20th anniversary of Pentaport Rock Festival.",
-          "\nHO-RAK-EE is a creature born from the Korean spirit of “heung” —joy, excitement, and rhythm—and he lives to spread it far and wide.",
-          "During the three days of Pentaport, our Horakdan welcomes HO-RAK-EE to the festival and begins recruiting new Horakdan members to join the celebration.",
+          "\nHO-ROCK-EE is a creature born from the Korean spirit of “heung” —joy, excitement, and rhythm—and he lives to spread it far and wide.",
+          "During the three days of Pentaport, our Horockdan welcomes HO-ROCK-EE to the festival and begins recruiting new Horockdan members to join the celebration.",
         ].join(""),
         text2:
-          "Visitors who complete all of our interactive activities—based on the classic Korean folktale “The Sun and the Moon”, featuring a tiger—will be officially initiated into the Horakdan.\nFor those who love rock and know how to ride the wave of heung, join the ranks of Horakdan and shout it loud:\n“A Roar Still Rocks!”",
+          "Visitors who complete all of our interactive activities—based on the classic Korean folktale “The Sun and the Moon”, featuring a tiger—will be officially initiated into the Horockdan.\nFor those who love rock and know how to ride the wave of heung, join the ranks of Horockdan and shout it loud:\n“A Roar Still Rocks!”",
       },
       section2: {
         title: "Descent of the Rock God",
@@ -154,9 +154,9 @@ export default function RockFestivalBooth() {
         text2:
           "In this monumental year, a brave hero imbued with the spirit of excitement, the 'Rock God,' descends to the human world.",
         text3:
-          "To celebrate this, like-minded souls have gathered and call themselves the 'Horak Squad,' now seeking companions to share their purpose and excitement.",
+          "To celebrate this, like-minded souls have gathered and call themselves the 'Horock Squad,' now seeking companions to share their purpose and excitement.",
         text4: "You who love rock and know how to enjoy it...",
-        text5: "Will you not join us in shouting together under the name of Horak Squad?",
+        text5: "Will you not join us in shouting together under the name of Horock Squad?",
       },
       section3: {
         title: "Discover your rock taste\nand decorate a fan",
@@ -207,7 +207,7 @@ export default function RockFestivalBooth() {
         illustration: "🎸🐅🎤",
         paragraphs: [
           {
-            text: "Once you complete all the content based on the story of The Sun and the Moon, you will be officially appointed as a member of the Horakdan! Join us in celebrating the 20th anniversary of Pentaport from August 1 to 3, 2025. Roar!",
+            text: "Once you complete all the content based on the story of The Sun and the Moon, you will be officially appointed as a member of the Horockdan! Join us in celebrating the 20th anniversary of Pentaport from August 1 to 3, 2025. Roar!",
             image: "/images/10.png",
           },
         ],
