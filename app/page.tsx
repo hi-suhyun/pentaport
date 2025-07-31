@@ -130,6 +130,34 @@ export default function RockFestivalBooth() {
       },
 
     ],
+      corner: [
+      {
+        title: "🧁 락 하나 주면 안 잡아먹지",
+        text:
+          "옛 전래동화 속 호랑이는 “떡 하나 주면 안 잡아먹지!” 하며 사람들에게 떡을 달라 했다지.\n\n이제 그 호랑이는 HO-ROCK-EE로 다시 태어나 펜타포트 호락단 부스에 등장했소!\n\n락에 굶주린 채 혀를 내밀고 있는 호락이에게 락 스피릿이 담긴 떡을 정성껏 바쳐보시게.\n\n떡이 혀 위에 무사히 안착하면, 호락 입문의 첫 번째 단계 통과!\n\n긴장을 풀고, 손끝의 정성을 다하여 조준하시게. 락의 정령이 그대의 손을 인도할 것이니.",
+      },
+      {
+        title: "🌞 호락단 타투 & 포토존",
+        text:
+          "이제 그대도 진정한 호락단원이 될 기회를 얻게 되었소.\n\n마음에 드는 타투 스티커를 골라 손목이나 팔에 붙여보시게.\n그 표식은 곧 호락단의 일원임을 증명하는 도장이 될 것이오.\n\n그 후, 해님달님 이야기를 배경으로 한 포토존으로 향하시게.\n창호지 뒤에 팔을 내밀어 전래동화 속 장면과 하나가 된 모습을 사진으로 남겨보시오.\n\n신비로운 순간을 기록하며, 호락단원으로서의 첫 발자국을 간직하시게나.",
+      },
+      {
+        title: "🧭 호락풍류 진단서",
+        text:
+          "락(樂) 기질을 알고자 하는 자,\n호락단의 맹렬한 흥을 깨우고자 하는 자,\n호락풍류 진단서에 답해보시게.\n\n진단서를 읽고, 자신에게 해당되는 항목에 체크하시오.\n체크 수에 따라 해님형, 달님형, 범형이 드러날 것이니라.\n\n결과를 확인한 후에는, 가까운 호락단원에게 진단서를 보여주시오.\n그대의 락 기질에 맞는 도장이 곧 건네질 터이니라.\n\n* 진단서는 마지막 관문까지 꼭 간직하시게나!",
+      },
+      {
+        title: "🎨 호락 부채 꾸미기",
+        text:
+          "이제 그대만의 호락단 수련용 부채를 꾸밀 차례이니라!\n\n부채에는 펜타포트 락마당의 공연 일정이 적혀 있소.\n진단서를 통해 받은 그대의 락 기질에 맞는 표식을 부채 위에 새기고,\n자신만의 색으로 채워 넣으시게.\n\n그 부채는 곧 그대의 취향과 에너지,\n락을 향한 열정이 담긴 호락단의 증표가 될 것이니라.\n\n마음을 담아 정성껏 완성해보시게나.",
+      },
+      {
+        title: "🌳 호락나무에 마음을",
+        text:
+          "진단서 뒷면에는 다음 문장이 있을 것이오:\n“나에게 펜타포트란 ___다.”\n\n그대가 느낀 펜타포트의 의미를 마음껏 적어보시게.\n열정, 위로, 자유… 어떤 것이든 진심이면 충분하오.\n\n그리고 그 문장을 소원나무인 호락나무 가지에 정성껏 매달아보시게.\n\n수많은 호락단원들의 마음이 모인 이 나무는\n펜타포트 20주년을 기념하는 가장 아름다운 상징이 될 것이오.\n\n바람이 불 때마다 그 진심이 나뭇잎 사이로 흔들리며\n모든 이의 마음을 울리게 될 것이니라.",
+      },
+    ],
+
       // storyEnding: {
       //   title: "그리고 지금",
       //   text: "펜타포트 락마당 20주년을 맞아,\n호락이는 인간 세상에 다시 모습을 드러냅니다.\n흥이 깃든 자들을 모아 '호락단'을 이루고,\n이 뜨거운 마당을 함께 누리기 위해서요.",
@@ -237,7 +265,34 @@ export default function RockFestivalBooth() {
           },
         ],
       },
-    ],
+      ],
+      corner: [
+      {
+        title: "🧁 Rock Rice Cake Toss",
+        text:
+          "\"Give me a rice cake, and I won't eat you!\"\nSo said the tiger in old Korean folktales.\n\nNow, that legendary tiger returns today… reborn as the HO-ROCK-EE at the Pentaport Horockdan Booth!\n\nHungry for rock, HO-ROCK-EE awaits your tribute.\nOffer your rock-infused rice cake with care!\n\nIf it lands safely on the HO-ROCK-EE’s tongue, congratulations!\nYou’ve passed the first rite of Horock initiation.\n\nSteady your hands, aim true, and feed the beast within.\nLet the Rock Spirit guide you!",
+      },
+      {
+        title: "🌞 Horockdan Tattoo & Photo Zone",
+        text:
+          "Now, you too have earned the chance to become a true Horockdan member.\n\nChoose your favorite tattoo sticker and place it proudly on your wrist or arm.\nThis mark is your rite of passage.\n\nOnce tattooed, step into our photo zone, where a magical scene from the folktale “The Sun and the Moon” awaits you.\nThere, behind a traditional Korean paper window Changhoji, extend your tattooed arm through the opening…\nand capture a photo that blends you, the myth, and the moment.\n\nImmortalize the memory—a snapshot of you stepping into a living fairy tale as a newly initiated Horockdan warrior!",
+      },
+      {
+        title: "🧭 Horock Flow Diagnosis",
+        text:
+          "Seekers of the Rock Spirit!\nIf you wish to awaken the wild energy of the Horockdan, take the Horock Flow Diagnosis.\n\nRead through the scroll carefully,\nand place a checkmark next to every statement that resonates with your inner rhythm.\n\nBased on the number of checks, your hidden Rock Soul will be revealed.\nAre you a Sun Type, Moon Type, or a fierce Tiger Type?\n\nOnce you've discovered your result, present your completed diagnosis to a nearby Horockdan member.\nThey shall bestow upon you a stamp that matches your type.\n\n* Do not lose your diagnosis paper!\nYou’ll need it to pass the final rite of Horock initiation.",
+      },
+      {
+        title: "🎨 Horock Fan Decoration",
+        text:
+          "Now it is time to craft your Horockdan Training Fan!\nOn this fan lies the Pentaport Rock Stage Schedule.\n\nBased on your earlier diagnosis, you will receive a symbol that reflects your inner Rock Type—a unique mark of your taste and musical soul.\n\nPlace your symbol over the timeslot of the performance you most anticipate.\nThen, decorate your fan with colors and flair that speak to your Rock journey.\n\nWhen your fan reflects your passion and spirit, it becomes not just a schedule but a Horockdan badge of honor,\netched with your rhythm, your energy, and your love for Rock.",
+      },
+      {
+        title: "🌳 HoRock Tree of Wishes",
+        text:
+          "On the back of your Rock Spirit Diagnosis, you’ll find a simple yet powerful prompt:\n\"To me, Pentaport is ___.\"\n\nWrite down what Pentaport truly means to you.\nIt might be passion, healing, or freedom.\nWhatever it is, let it come from the heart. Your truth is the truest answer.\n\nOnce written, tie your message to the branches of the HoRock Tree adorned with the voices of many Horockdan souls.\n\nAs the wind passes through these heartfelt notes, the tree becomes a living tribute to the 20th anniversary of Pentaport—a moving monument of music, memory, and meaning.",
+      },
+      ],
     },
   }
 
@@ -477,6 +532,20 @@ export default function RockFestivalBooth() {
                     </h3>
                   </div>
 
+                  <div className="bg-white/90 p-8 rounded-lg border-2 border-amber-300 shadow-lg">
+                    <div className="mb-6">
+                      <div className="w-16 h-16 bg-gradient-to-r from-red-500 to-amber-500 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <span className="text-white text-2xl">📖</span>
+                      </div>
+                    </div>
+
+                    <Button
+                      className="w-full bg-gradient-to-r from-red-600 to-amber-600 hover:from-red-700 hover:to-amber-700 text-white font-bold py-4 rounded-lg border-2 border-red-800 shadow-lg text-md korean-modern"
+                      onClick={handleTestClick}
+                    >
+                      {currentContent.section3.button}
+                    </Button>
+                  </div>
                   <div className="bg-white/90 p-8 rounded-lg border-2 border-amber-300 shadow-lg">
                     <div className="mb-6">
                       <div className="w-16 h-16 bg-gradient-to-r from-red-500 to-amber-500 rounded-full flex items-center justify-center mx-auto mb-4">
